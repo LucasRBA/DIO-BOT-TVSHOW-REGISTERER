@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\bin\Debug\net6.0\DIO_BOT.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\bin\Debug\net6.0\DIO_BOT.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\bin\Debug\net6.0\DIO_BOT.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\bin\Debug\net6.0\DIO_BOT.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\bin\Debug\net6.0\DIO_BOT.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\obj\Debug\net6.0\DIO_BOT.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\obj\Debug\net6.0\DIO_BOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\obj\Debug\net6.0\DIO_BOT.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\obj\Debug\net6.0\DIO_BOT.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\obj\Debug\net6.0\DIO_BOT.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\obj\Debug\net6.0\DIO_BOT.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\obj\Debug\net6.0\refint\DIO_BOT.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\obj\Debug\net6.0\DIO_BOT.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\obj\Debug\net6.0\DIO_BOT.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\DIO\.NET\projetos.NET\BOT_DIO_SERIES_REGISTER\DIO_BOT\obj\Debug\net6.0\ref\DIO_BOT.dll
